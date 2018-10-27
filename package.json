@@ -14,7 +14,7 @@
     ]
   },
   "keywords": [],
-  "author": "Jonathan Soma <jonathan.soma@gmail.com> (http://jonathansoma.com)",
+  "author": "Matthew Albasi",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.5.0",
